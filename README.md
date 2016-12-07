@@ -1,7 +1,7 @@
 # postgres_database
 Usage:
 
-Fist, the docker can be downladed with the following command in the Docker terminal as:
+First, the docker can be downladed with the following command in the Docker terminal as:
 
 $ docker pull vitecde/postgres-database
 
