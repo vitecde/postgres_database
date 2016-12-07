@@ -1,4 +1,4 @@
-# metadata-crawler
+# postgres_database
 Usage:
 
 Fist, the docker can be downladed with the following command in the Docker terminal as:
