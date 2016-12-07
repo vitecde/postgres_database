@@ -3,7 +3,7 @@ Usage:
 
 docker run -v /c/Users/myDir:/home -p 8000:5432 -e "POSTGRES_PASSWORD=toor1" -it --rm vitecde/postgres_database
 
-where: 
+where:
 
 /c/Users/myDir -> example of a directory where the file with the data to populate the data base can be copied.
 
